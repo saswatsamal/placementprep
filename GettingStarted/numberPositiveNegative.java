@@ -1,3 +1,4 @@
+package GettingStarted;
 /**
  * Check if a Number is Positive or Negative in Java.
  * https://prepinsta.com/java-program/a-number-is-positive-or-negative-using-java/
